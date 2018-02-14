@@ -8,7 +8,7 @@ html, body {
   /* The gemeente Amsterdam font stack, however since we don't have webfonts for this yet windows will display Arial */
   font-family: Avenir,Arial,sans-serif;
   font-weight: 500;
-  background-color: #e5e5e5;
+  background-color: #da2738;
   color: #434343;
   line-height: 1.5;
   min-height: 100vh;
@@ -48,7 +48,7 @@ body>main, body>header, body>nav>ul {
 body>nav {
   width: 100vw;
   /* A grey background to mimic amsterdam.nl */
-  background-color: #f3f3f3;
+  background-color: #444747;
 }
 
 body>nav>ul {
@@ -63,7 +63,7 @@ body>nav>ul>li {
 body>nav>ul>li>a:link {
   font-weight: normal;
   font-size: 1.125em;
-  
+  color: #fff;
   font-weight: 500;
 }
 
@@ -181,8 +181,8 @@ body>footer {
   margin: 0 15px;
 }
 body>footer, body>footer h3, body>footer a:link, body>footer a:visited {
-  background-color: #666666;
-  color: white;
+  background-color: #eeeeee;
+  color: #3c4040;
   font-weight: normal;
   min-width: inherit;
 }
