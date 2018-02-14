@@ -60,7 +60,7 @@ body>nav>ul>li {
   display: inline;
   margin-right: 1em;
 }
-body>nav>ul>li>a:link {
+body>nav>ul>li>a:link, body>nav>ul>li>a:visited {
   font-weight: normal;
   font-size: 1.125em;
   color: #fff;
