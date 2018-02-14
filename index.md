@@ -1,60 +1,48 @@
-# Open Source at the City of Amsterdam
+# Lorem Ipsum
 
-The City of Amsterdam is both a user and contributor to and developer of, [Open Source](https://opensource.org/faq#osd) projects. 
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris sed mi porta, gravida tortor eu, lobortis massa. Duis faucibus ipsum metus, nec hendrerit lectus vulputate ac. Aliquam ut leo sit amet magna molestie semper. Vivamus id tortor in ante dapibus lacinia. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Mauris venenatis iaculis nisl, eget sodales nunc lobortis nec. Fusce nec lacus lobortis, tristique leo a, iaculis est. Cras vel erat consectetur purus imperdiet cursus accumsan fringilla quam. Proin elementum risus sit amet turpis mattis vulputate. Vestibulum aliquam, ligula vitae faucibus interdum, sem neque imperdiet quam, non efficitur odio orci eget augue. Donec euismod tempus velit, eu condimentum justo imperdiet sit amet. Suspendisse vulputate aliquet ligula ut tincidunt. Curabitur fermentum turpis ac odio faucibus ornare.
 
-Our projects range from a [360° panorama processing system](projects/open-panorama.md) to an [OAuth 2.0 server written in Go](projects/authz.md).
+Donec ut odio sit amet neque placerat eleifend. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Mauris id vulputate nunc. Etiam pulvinar posuere tellus, a posuere velit varius ac. Nulla at nisi vitae ipsum eleifend lacinia id nec est. Quisque vitae nunc massa. Maecenas sollicitudin ex ac enim pulvinar tempus. Nunc imperdiet quis odio malesuada condimentum. Nam imperdiet leo ac scelerisque gravida. Mauris vulputate aliquet urna ac sodales. In ac venenatis mauris. Pellentesque at dictum sapien. Ut ac tincidunt erat. Proin egestas quis turpis nec dapibus.
 
-We publish the source code to [our projects](projects/) on [GitHub.com/Amsterdam](http://github.com/amsterdam). We publish the source code under Open Source licences (most commonly MPL2.0) that allows anyone to view the source and to copy our source code to use it in their projects. We do not provide any warranties or guarantees on the reuse of our source in others’ projects.
+Mauris quis erat eget nunc luctus pharetra. In iaculis, est sed fringilla malesuada, sem felis iaculis magna, imperdiet fringilla velit dolor a orci. Aenean rhoncus dignissim augue, non consectetur orci. Mauris nulla lorem, cursus quis blandit id, commodo a libero. Pellentesque vel libero nibh. Quisque non ornare massa, vitae venenatis libero. In vitae purus dapibus, cursus lorem a, pellentesque diam. Aliquam iaculis euismod magna, id eleifend nunc. Proin nisi sem, vulputate in maximus id, blandit at quam. Morbi dictum fermentum commodo. Cras arcu velit, pulvinar quis pretium non, egestas vel ligula. Mauris pellentesque tortor non ipsum tempus, sit amet ultrices ante congue. Quisque aliquet, velit non pretium vestibulum, turpis leo tempus ligula, a pretium dolor quam ut est. Curabitur in tristique arcu. Morbi vestibulum, risus at dignissim efficitur, elit nibh feugiat mauris, in dapibus ante mi non sapien.
 
-We are looking forward to collaborating with you!
+Proin rutrum dui ac dolor egestas vehicula. Morbi gravida suscipit enim, a consequat odio feugiat ut. Sed viverra convallis sem eget sagittis. Aenean tellus lorem, consequat a tellus vel, fermentum ornare ante. Maecenas elementum efficitur leo, quis gravida metus porttitor vel. Proin eu elementum sapien. Integer rhoncus sem neque, quis pharetra libero fringilla et. Fusce nec leo nec felis lacinia molestie.
 
-## Why the City of Amsterdam uses, contributes to and develops Open Source
+Mauris varius rutrum suscipit. Aenean ac tincidunt ligula, in lacinia felis. Fusce facilisis nec purus vitae egestas. Donec odio massa, hendrerit sed odio eu, faucibus blandit nisl. Duis mauris odio, ultricies quis lorem nec, varius ultricies magna. Mauris at auctor nunc. Quisque consectetur quis erat laoreet fermentum. Interdum et malesuada fames ac ante ipsum primis in faucibus. Vestibulum luctus ex ante, a lacinia ante pulvinar ac.
 
-Being a part of the Open Source ecosystem – in which we are both a user and contributor – is an essential enabler to the development of our digital services.
+## Lorem Ipsum
 
-### Collaboration
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris sed mi porta, gravida tortor eu, lobortis massa. Duis faucibus ipsum metus, nec hendrerit lectus vulputate ac.
 
-We live in a time where most of the problems we’re facing – including societal, technological, mobility, growth and climate – as a city are too large to solve on our own. We need to collaborate with other cities, governments, businesses and individuals to solve these problems. Meaning we are sharing our knowledge as much as possible, so that we can learn from our peers, and can collaborate on solutions.
+### Lorem Ipsum
 
-Using and developing Open Source and actively participating in its ecosystem enables us to create valuable collaborations that would otherwise not be possible.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris sed mi porta, gravida tortor eu, lobortis massa. Duis faucibus ipsum metus, nec hendrerit lectus vulputate ac.
 
-### Security
+### Lorem Ipsum
 
-Our software processes sensitive data and it informs us in making crucial decisions about citizens. Using and developing Open Source is essential in providing the security we need. If you don’t know what is in the software you rely on, you cannot tell there is no backdoor.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris sed mi porta, gravida tortor eu, lobortis massa. Duis faucibus ipsum metus, nec hendrerit lectus vulputate ac.
 
-We play an active role in improving the security of Open Source projects we depend on, and we invite the broader community to audit the security of our projects, as well as suggest improvements.
+### Lorem Ipsum
 
-### Transparency
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris sed mi porta, gravida tortor eu, lobortis massa. Duis faucibus ipsum metus, nec hendrerit lectus vulputate ac.
 
-The software we work with and produce handles the often private information of citizens and companies. Using and developing in Open Source provides a necessary level of transparency for our users and clients.
+### Lorem Ipsum
 
-We put a lot of effort into providing high quality internal and Open Data. Using and developing Open Source and being transparent about how the data we use for decision making is created and utilised gives it the context it needs to be useful and reliable.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris sed mi porta, gravida tortor eu, lobortis massa. Duis faucibus ipsum metus, nec hendrerit lectus vulputate ac.
 
-### Support
+### Lorem Ipsum
 
-Participating in the Open Source ecosystem, both as a user and as a developer, means that finding solutions to problems is always a community affair that involves users, contributors and the core developers of a project. The community helps by quickly resolving simple issues as well as adapting the code to solve more complex issues. Fixing problems together means every problem and its solution leads to better code for every user.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris sed mi porta, gravida tortor eu, lobortis massa. Duis faucibus ipsum metus, nec hendrerit lectus vulputate ac.
 
-### Reliability and Maintainability
+### Lorem Ipsum
 
-Using and developing Open Source means working with a diverse community in different circumstances to review, test and maintain the code at the core of our services.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris sed mi porta, gravida tortor eu, lobortis massa. Duis faucibus ipsum metus, nec hendrerit lectus vulputate ac.
 
-### Agility
+### Lorem Ipsum
 
-Using and developing Open Source software enables us to have flexible control over our processes and full access to our data. The flexibility and access enable a more flexible process in which we can develop new solutions quicker and with higher effectivity.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris sed mi porta, gravida tortor eu, lobortis massa. Duis faucibus ipsum metus, nec hendrerit lectus vulputate ac.
 
-Open Source enables us to work with a wider variety of suppliers and freelance developers, meaning we can eliminate vendor lock-in as well as work with better, smaller or more specialised suppliers.
+### Lorem Ipsum
 
-### Reusability
-
-Developing Open Source projects means developing for reuse. Open Source projects are scalable and interoperable.
-
-Developing in the open also allows for other opinions – inside of our organisation and outside – to help adjust the direction of a product to maximise its usefulness to the community it serves.
-
-If one of our projects is successful it can – relatively easily – be replicated or changed to be implemented in a different circumstance.
-
-If one of our projects or parts of one of our projects is reliant on another project we want to replace, the principles of reusability make sure we can easily switch.
-
-### Attractiveness
-
-Many developers prefer developing an Open Source project over a closed source project. Using, contributing to and developing Open Source projects means working at the City of Amsterdam is a lot more attractive for those brilliant, civic-minded, career developers out there.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris sed mi porta, gravida tortor eu, lobortis massa. Duis faucibus ipsum metus, nec hendrerit lectus vulputate ac.
 
