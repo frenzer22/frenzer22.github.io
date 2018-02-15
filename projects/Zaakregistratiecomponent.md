@@ -1,6 +1,8 @@
-============
-Zaakmagazijn
-============
+---
+abstract: Zaakregistratiecomponent
+---
+
+# Zaakmagazijn
 
 :Version: 0.9.7
 :Source: https://github.com/Haarlem/zaakregistratiecomponent
@@ -16,9 +18,7 @@ behoeve van zaakgericht werken.
 Ontwikkeld door `Maykin Media B.V. <https://www.maykinmedia.nl>`_ in opdracht
 van de Gemeente Haarlem.
 
-
-Introductie
-===========
+### Introductie
 
 Het Zaakmagazijn is een systeem dat invulling geeft aan de referentiecomponent
 ZS en ondersteunt daarmee functionaliteit voor het opslaan en ontsluiten van
@@ -42,17 +42,13 @@ Het Zaakmagazijn biedt bovenstaande functionaliteit aan middels services. De
 functionaliteit wordt niet aangeboden via een userinterface. Er is echter wel
 een webinterface beschikbaar voor inzage in de ruwe data.
 
-
-Opmerking
-=========
+### Opmerking
 
 De ZDS 1.2 specificatie is gebaseerd op RGBZ 1.0. In deze implementatie is
 echter gebruik gemaakt van RGBZ 2.0. Middels een tussenlaag wordt een RGBZ 1.0
 data model geëmuleerd.
 
-
-Documentatie
-============
+### Documentatie
 
 Zie ``INSTALL.rst`` voor installatie instructies, commando's en instellingen.
 
@@ -66,8 +62,7 @@ Zie ``INSTALL.rst`` voor installatie instructies, commando's en instellingen.
 * `Keuzen VerStUFfing RGBZ <http://gemmaonline.nl/index.php/Sectormodellen_Zaken:_StUF-ZKN>`_
 
 
-Verwijzingen
-============
+### Verwijzingen
 
 * `Community <https://discussie.kinggemeenten.nl/discussie/gemma/koppelvlak-zs-dms>`_ (rapporteren van bugs,
   functionaliteit aanvragen, algemene vragen)

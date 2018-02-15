@@ -1,3 +1,7 @@
+---
+abstract: Digitale Waardepapieren
+---
+
 # Digitale Waardepapieren
 
 ![Status: Proof of Concept](https://img.shields.io/badge/Status-Proof%20Of%20Concept-lightgrey.svg)
