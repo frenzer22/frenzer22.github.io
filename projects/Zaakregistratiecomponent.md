@@ -4,18 +4,16 @@ abstract: Zaakregistratiecomponent
 
 # Zaakmagazijn
 
-:Version: 0.9.7
-:Source: https://github.com/Haarlem/zaakregistratiecomponent
-:Keywords: zaaksysteem, zakenmagazijn, zds, zaakservices, documentservices, soap, zds
-
-|build-status| |coverage|
+Version: 0.9.7
+Source: [https://github.com/Haarlem/zaakregistratiecomponent](https://github.com/Haarlem/zaakregistratiecomponent)
+Keywords: zaaksysteem, zakenmagazijn, zds, zaakservices, documentservices, soap, zds
 
 
 Implementatie van het referentiecomponent Zaaksysteem (ZS) volgens de
 Standaard Zaak- en Documentservices (ZDS) 1.2 specificatie van KING ten
 behoeve van zaakgericht werken.
 
-Ontwikkeld door `Maykin Media B.V. <https://www.maykinmedia.nl>`_ in opdracht
+Ontwikkeld door [Maykin Media B.V.](https://www.maykinmedia.nl) in opdracht
 van de Gemeente Haarlem.
 
 ### Introductie
@@ -52,7 +50,7 @@ data model geëmuleerd.
 
 Zie ``INSTALL.rst`` voor installatie instructies, commando's en instellingen.
 
-* `CMIS 1.0 (Content Management Interoperability Services) <http://docs.oasis-open.org/cmis/CMIS/v1.0/os/cmis-spec-v1.0.pdf>`_ (PDF)
+* [CMIS 1.0 Content Management Interoperability Services](http://docs.oasis-open.org/cmis/CMIS/v1.0/os/cmis-spec-v1.0.pdf)
 * `RGBZ 2.0 (Referentiemodel Gemeentelijke Basisgegevens Zaken) <http://www.gemmaonline.nl/index.php/RGBZ_2.0_in_ontwikkeling>`_
 * `RSGB 3.0 (Referentiemodel Stelsel Gemeentelijke Basisgegevens) <http://www.gemmaonline.nl/index.php/RSGB_3.0_in_ontwikkeling>`_
 * `StUF 3.01 (Standaard Uitwisseling Formaat) <http://gemmaonline.nl/index.php/StUF_Berichtenstandaard#StUF_3.01_familie>`_
