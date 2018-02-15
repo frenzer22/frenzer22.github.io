@@ -4,15 +4,15 @@ abstract: Zaaktypecatalogus
 
 # Zaaktypecatalogus
 
-:Version: TBD
-:Source: https://github.com/Haarlem/zaaktypecataloguscomponent
-:Keywords: zaaktypen, ztc, imztc, ztc2, ztcaas, saas, rest, api
+Version: TBD
+Source: https://github.com/Haarlem/zaaktypecataloguscomponent
+Keywords: zaaktypen, ztc, imztc, ztc2, ztcaas, saas, rest, api
 
 Implementatie van het informatiemodel Zaaktypecatalogus (ImZTC) 2.1 welke
 beheerd kan worden middels een webinterface en ontsloten wordt middels een 
 RESTful API.
 
-Ontwikkeld door `Maykin Media B.V. <https://www.maykinmedia.nl>`_ in opdracht
+Ontwikkeld door [Maykin Media B.V.](https://www.maykinmedia.nl) in opdracht
 van de Gemeente Haarlem.
 
 ### Introductie
@@ -47,24 +47,16 @@ gegaan door volledig over te gaan naar een RESTful webservice.
 
 Zie ``INSTALL.rst`` voor installatie instructies, commando's en instellingen.
 
-* `Informatiemodel Zaaktypen/Zaaktypecatalogus 2.1 (ImZTC) <http://www.gemmaonline.nl/index.php/Informatiemodel_Zaaktypen_(ImZTC)>`_
-* `GEMMA Zaaktypecatalogus <https://www.gemmaonline.nl/index.php/GEMMA_Zaaktypecatalogus>`_
+* [Informatiemodel Zaaktypen/Zaaktypecatalogus 2.1 (ImZTC)](http://www.gemmaonline.nl/index.php/Informatiemodel_Zaaktypen_(ImZTC))
+* [GEMMA Zaaktypecatalogus](https://www.gemmaonline.nl/index.php/GEMMA_Zaaktypecatalogus)
 
 ### Verwijzingen
 
-* `Community <https://discussie.kinggemeenten.nl/discussie/gemma/ztc>`_ 
+* [Community](https://discussie.kinggemeenten.nl/discussie/gemma/ztc)
   (rapporteren van bugs, functionaliteit aanvragen, algemene vragen)
-* `Issues <https://github.com/Haarlem/zaakregistratiecomponent/issues>`_
-* `Code <https://github.com/Haarlem/zaakregistratiecomponent>`_
+* [Issues](https://github.com/Haarlem/zaakregistratiecomponent/issues)
+* [Code](https://github.com/Haarlem/zaakregistratiecomponent)
 
-
-.. |build-status| image:: https://secure.travis-ci.org/Haarlem/zaaktypecataloguscomponent.svg?branch=develop
-    :alt: Build status
-    :target: https://travis-ci.org/Haarlem/Zaaktypecataloguscomponent
-
-.. |coverage| image:: https://codecov.io/github/Haarlem/zaaktypecataloguscomponent/coverage.svg?branch=develop
-    :alt: Coverage
-    :target: https://codecov.io/github/Haarlem/zaaktypecataloguscomponent?branch=develop
 
 .. _RSGB Bevragingen: https://www.gemmaonline.nl/index.php/RSGB_Bevragingen
 .. _StUF-ZTC: https://www.gemmaonline.nl/index.php/Sectormodel_Zaaktypen(-catalogus):_StUF%E2%80%93ZTC
